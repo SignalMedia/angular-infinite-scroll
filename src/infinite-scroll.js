@@ -1,5 +1,5 @@
 angular.module('infiniteScroll', [])
-    .directive('infiniteScroll', [ "$window", function ($window) {
+    .directive('sgInfiniteScroll', [ "$window", function ($window) {
         return {
             link:function (scope, element, attrs) {
                 var offset = parseInt(attrs.threshold) || 0;
