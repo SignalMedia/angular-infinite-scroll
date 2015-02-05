@@ -1,5 +1,6 @@
   {
+    "name": "angular-infinite-scroll",
     "main": [
-        "src/**/*"
+        "src/*"
     ]
 }
