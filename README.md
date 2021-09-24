@@ -1,6 +1,6 @@
 # Angular Infinite Scroll
 
-***
+**This module is no longer maintained**
 
 ## Usage
 
